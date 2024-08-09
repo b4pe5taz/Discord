@@ -25,7 +25,7 @@ client.on("ready", async () => {
  .setName("--")
  .setDetails(`##`)
  .setAssetsLargeImage(
-  "https://cdn.discordapp.com/attachments/1219432596593840148/1271146970786037923/IMG_6786.png?ex=66b6475e&is=66b4f5de&hm=70475a2606c3bfc02b63452610dd0d875695490153d4e1860838a818dbb22ca9&",
+  "https://cdn.discordapp.com/attachments/1219432596593840148/1271283060087848981/IMG_6448.png?ex=66b6c61c&is=66b5749c&hm=3153c8b7f6f9b0257d3e6038b4a98f3d9793a7760cd35765a7b7bb6bf58ce086&",
  ) //You can put links in tenor or discord and etc.
  .addButton("-", "https://pin.it/1fSU6Gkx6");
 
